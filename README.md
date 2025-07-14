@@ -90,10 +90,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=replit" height="48" alt="replit logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=sentry" height="48" alt="sentry logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=devto" height="48" alt="devto logo"  />
 </div>
 
 ###
