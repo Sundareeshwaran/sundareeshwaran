@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sundareeshwaran D</h1>
 
 ###
-
-<br clear="both">
-
 <h3 align="center">A passionate fullstack MERN developer from India</h3>
 
 ###
