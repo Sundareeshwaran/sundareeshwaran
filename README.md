@@ -106,6 +106,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sundareeshwaran/Sundareeshwaran/output/snake.svg" alt="Snake animation" />
-
-###
